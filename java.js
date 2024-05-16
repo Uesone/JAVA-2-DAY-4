@@ -6,7 +6,7 @@ const numeri = [];
 /* Creazione dinamica della tabella */
 
 function creaTabellone() {
-  const tabellone = document.createElement("table");
+  const tabellone = document.createElement("tabellone");
   tabellone.classList.add("tabellone-bingo");
 
   for (let i = 0; i < 11; i++) {
