@@ -1,0 +1,19 @@
+.tabellone-bingo {
+    border-collapse: collapse;
+  }
+  
+  .tabellone-bingo td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px;
+  }
+  
+  .highlight {
+    background-color: yellow;
+  }

@@ -8,7 +8,9 @@ La tabella e il bottone dovranno essere eseguite all'avvio dell'applicazione per
 
 
 -----------------------------------------Parte Dinamica-------------------------------------------------
-
-1 Programmare il bottone facendo si che selezioni randomicamente i numeri della tablla.
-2 al click del bottone Far si che i numeri selezionati vengano risaltati nella tabella
-3 mantere le celle evidenziate ad ogni click.
+1 Capire quante righe e quante colonne mi servono per fare una tabella da 76 
+2 Creare la tabella in modo dinamico. con un ciclo for
+3 Programmare numeri randomici
+4 Programmare il bottone facendo si che selezioni randomicamente i numeri della tablla.
+5 al click del bottone Far si che i numeri selezionati vengano risaltati nella tabella
+6 mantere le celle evidenziate ad ogni click.
