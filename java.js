@@ -14,8 +14,7 @@ function creaTabellone() {
     for (let f = 0; f < 7; f++) {
       const cella = document.createElement("td");
       const numero = i * 7 + (f + 1);
-      if (numero <= 76) {
-        /* Aggiunto controllo per non superare 76 numeri */
+      /* Aggiunto controllo per non superare 76 numeri */ if (numero <= 76) {
         cella.textContent = numero;
         riga.appendChild(cella);
         numeri.push(numero);
