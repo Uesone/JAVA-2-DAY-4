@@ -32,6 +32,7 @@ function numeriRandom() {
   return numeri.splice(index, 1)[0];
 }
 
+/* Evidenziare numero */
 function evidenziaNumero(numero) {
   const celle = document.querySelectorAll(".tabellone-bingo td");
   celle.forEach(function (cella) {
