@@ -44,6 +44,7 @@ function evidenziaNumero(numero) {
 
 creaTabellone();
 
+/* Event listener sul bottone pesca numero */
 bottonePescaNumero.addEventListener("click", () => {
   const pescaNumero = numeriRandom();
   evidenziaNumero(pescaNumero);
